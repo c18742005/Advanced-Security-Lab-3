@@ -1,0 +1,2 @@
+cd ../LetterFreqAttack/
+java LetterFrequencyAttack

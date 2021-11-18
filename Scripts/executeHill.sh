@@ -1,0 +1,2 @@
+cd ../HillCipher/
+java HillCipherApp
